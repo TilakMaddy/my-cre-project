@@ -6,6 +6,7 @@ require (
 	github.com/smartcontractkit/cre-sdk-go v1.11.0
 	github.com/smartcontractkit/cre-sdk-go/capabilities/scheduler/cron v1.3.0
 	github.com/stretchr/testify v1.11.1
+	golang.org/x/sync v0.18.0
 	google.golang.org/protobuf v1.36.11
 )
 
